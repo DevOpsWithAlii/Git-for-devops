@@ -120,7 +120,7 @@ ls
 
 ## 24. Set Git User Name
 ```bash
-git config --global user.name "jugnutoken"
+git config --global user.name "DevOpsWithAli"
 ```
 
 ## 25. Set Git User Email
