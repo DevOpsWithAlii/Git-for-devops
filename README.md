@@ -83,7 +83,7 @@ git status
 git commit -m "adding nibba nibbi"
 ```
 
-## 17. Clear Terminal Screen
+## 17. Clear Terminal Screens
 ```bash
 clear
 ```
