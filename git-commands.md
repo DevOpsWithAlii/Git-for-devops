@@ -10,3 +10,7 @@ touch nibba.txt nibbi.txt
 
 # Check Git status
 git status
+
+
+
+hello everyone
