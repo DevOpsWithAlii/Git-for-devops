@@ -13,3 +13,6 @@ git status
 
 # check git log
 git log
+
+# git log one line shoe
+git log --oneline
