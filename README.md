@@ -14,6 +14,9 @@ ls -a
 
 # clone via ssh
 1st- generate ssh-key, so do  [cd .ssh= then ssh-keygen, then enter]
+2nd do ls {you will see id948(it is private key) id_8879.pub ...like that}
+3rd cat id_8879.pub and copy the public key then, [go github settings into ssh and gpc keys Enter, then new ssh key fill tital and paste publick key ,,paste here]
+
 
 # Create new files
 touch nibba.txt nibbi.txt
