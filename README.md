@@ -12,6 +12,9 @@ git config --global user.email "amreeta9798@gmail.com"
 # List all files (including hidden ones)
 ls -a
 
+# clone via ssh
+1st- generate ssh-key, so do  [cd .ssh= then ssh-keygen, then enter]
+
 # Create new files
 touch nibba.txt nibbi.txt
 
