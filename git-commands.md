@@ -11,10 +11,5 @@ touch nibba.txt nibbi.txt
 # Check Git status
 git status
 
-
-
-hello everyone
-
-my name is ali
-
-this is a git repo
+# check git log
+git log
