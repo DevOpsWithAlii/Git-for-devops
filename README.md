@@ -17,7 +17,7 @@ ls -a
 2nd do ls {you will see id948(it is private key) id_8879.pub ...like that}
 3rd cat id_8879.pub and copy the public key then, [go github settings into ssh and gpc keys Enter, then new ssh key fill tital and paste publick key ,,paste here] add sshkey
 4th now clone url via ssh then..[git clone git@github.com:DevOpsWithAlii/Git-for-devops.git]
-5th now we can changes some into file then [git add & git commit =m ".."]
+5th now we can changes some into file then [git add & git commit -m ".."]
 then, git push               [done]
 
 
